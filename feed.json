@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Digital Shakespeare",
+    "description": "",
+    "home_page_url": "https://cjeung.github.io/digitalshakespeare",
+    "feed_url": "https://cjeung.github.io/digitalshakespeare/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "carly"
+    },
+    "items": [
+    ]
+}
